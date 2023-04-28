@@ -1,6 +1,6 @@
 # AluraMIDI
 
-<img src="../aluramidi/images/AluraMIDI.png>
+<img src="./images/AluraMIDI.png" alt="Layout da página.">
 
 Projeto criado com a Alura, ministrado pela <strong>instrutora Vanessa Me Tonini.</strong>
 
